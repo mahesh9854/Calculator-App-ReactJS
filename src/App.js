@@ -70,7 +70,7 @@ function App() {
           <button onClick={() => updateCalc(".")}>.</button>
           <button onClick={calculate}>=</button>
         </div>
-      <p>Chillara V L N S Pavana Vamsi</p>
+      <p>Thulasi Mahesh</p>
       </div>
     </div>
   );

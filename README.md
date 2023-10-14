@@ -1,5 +1,5 @@
 # Calculator-App-ReactJS
-# Calculator App
+Thulasi Mahesh
 This is Calculator App build with React Js
 # Getting Started with Create React App
 
